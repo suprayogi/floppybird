@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 19 Aug 2014 10:42:35 +0700
+Source: floppybird
+Binary: floppybird
+Architecture: source all
+Version: 0.1-1
+Distribution: anambas
+Urgency: low
+Maintainer: Hendra <azep291@gmail.com>
+Changed-By: Hendra <azep291@gmail.com>
+Description: 
+ floppybird - HTML5 Floppy Bird
+Changes: 
+ floppybird (0.1-1) anambas; urgency=low
+ .
+   * Initial release
+Checksums-Sha1: 
+ 565f0e2573aaed898e56e179492fa28373153300 772 floppybird_0.1-1.dsc
+ 85313553492120382d6ad9910c011292d1644c2e 412796 floppybird_0.1.orig.tar.xz
+ aac7db12520013fad7f1f1d0d6fafdf80f9736fe 8832 floppybird_0.1-1.debian.tar.xz
+ bbb945e06db6e1e4048760603112204aab7f8c5c 132170 floppybird_0.1-1_all.deb
+Checksums-Sha256: 
+ d90039f04fa18a301eb159b9cb0ce0e531ff1b53138cda6e09db9f9b22bef7e0 772 floppybird_0.1-1.dsc
+ 45d28f42bdb93cfbf7bb2fd49abe0d375f2da2bf48032ca2b47371b3e6ebda96 412796 floppybird_0.1.orig.tar.xz
+ 5b0c7fd893927a79b9d2e9e814f1ed253f930975bc1d2303bfff6b491ec33b2d 8832 floppybird_0.1-1.debian.tar.xz
+ 33f598b60bbd1eb0e4814742bf3f46b88875842f6de03e8ed732a122fb9de2d5 132170 floppybird_0.1-1_all.deb
+Files: 
+ d3e7a0f7ce9dbf9b6f88c00ace6c98ac 772 games extra floppybird_0.1-1.dsc
+ 4bfaf9445b8709f18d8a77258ddeb724 412796 games extra floppybird_0.1.orig.tar.xz
+ a13eaf2a5ae6617c92e0c0be1278a1b0 8832 games extra floppybird_0.1-1.debian.tar.xz
+ 1d99610e7c33db7576abfaa8c7b44666 132170 games extra floppybird_0.1-1_all.deb

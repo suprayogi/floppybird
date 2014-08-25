@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 19 Aug 2014 10:49:17 +0700
+Source: floppybird
+Binary: floppybird
+Architecture: source all
+Version: 0.1-2
+Distribution: anambas
+Urgency: low
+Maintainer: Hendra <azep291@gmail.com>
+Changed-By: Hendra <azep291@gmail.com>
+Description: 
+ floppybird - HTML5 Floppy Bird
+Changes: 
+ floppybird (0.1-2) anambas; urgency=low
+ .
+   * Fix desktop shortcut name
+Checksums-Sha1: 
+ 5d24c8de4c14e02df602e89cd354056996daede7 772 floppybird_0.1-2.dsc
+ 13d7b4a8d53440dad28a72157ba0113aa74e65d9 9504 floppybird_0.1-2.debian.tar.xz
+ 34d3ec32a30c137a095824e295c85b82740f29ba 132196 floppybird_0.1-2_all.deb
+Checksums-Sha256: 
+ 533325c268bd37e43e3e599a777839a488d18fda3929f1ca073563641e9fc20a 772 floppybird_0.1-2.dsc
+ 959d307c25f3a9ab01e77978d778f36dbdd3e5bdc1734ec84d33996e65483927 9504 floppybird_0.1-2.debian.tar.xz
+ a124333738618a157324409a64d2656f297137f1806783c2c43f07ad244e8125 132196 floppybird_0.1-2_all.deb
+Files: 
+ 60b43eb644ab3262d3e6e3b1b55d363b 772 games extra floppybird_0.1-2.dsc
+ 763c3ee6e04785c4bafef888820f4fb2 9504 games extra floppybird_0.1-2.debian.tar.xz
+ 97007cff14f7253a768ca13db4525d4e 132196 games extra floppybird_0.1-2_all.deb

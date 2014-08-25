@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=HTML5 Video Player
+Comment=An example of HTML 5 Video Player Static
+Exec=maleo /usr/share/html5video/
+Icon=imovie
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;LogicGame;
+StartupNotify=true
+Name[C]=flappy-bird.desktop
